@@ -1,2 +1,2 @@
-# p2p-chat
-A simple p2p chat using Python
+# Chat-P2P-Python
+Chat peer-to-peer Desenvolvido em Python para disciplina Sistemas Distribuídos, disponibilizada no 5 semestre do curso Engenharia de Software da Puc-Campinas
